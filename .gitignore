@@ -1,0 +1,19 @@
+# Material de apoio da FIAP (o enunciado proíbe reprodução/divulgação sem autorização da autora)
+docs/
+
+# Ambiente
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dados volumosos e regeneráveis pelos notebooks de leitura/tratamento
+# ~1,3 GB, baixado por notebooks/01_leitura/02_leitura_inmet.ipynb
+data/raw/inmet/zip/
+# ~0,9 GB, gerado por notebooks/01_leitura/02_leitura_inmet.ipynb
+data/01_leitura/inmet/horario/
+# ~45 MB, gerado por notebooks/02_tratamento/02_tratamento_inmet.ipynb
+data/02_tratamento/inmet/inmet_diario.parquet
+
+# Arquivos temporários
+*.part
+*.tmp

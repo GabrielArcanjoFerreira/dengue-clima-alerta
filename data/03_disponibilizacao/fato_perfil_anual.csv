@@ -1,0 +1,508 @@
+﻿ano;dimensao;categoria;ordem;casos;pct_no_ano
+2014;Classificação final;Dengue;1;446321;82,0567
+2014;Classificação final;Dengue com sinais de alarme;2;8605;1,582
+2014;Classificação final;Dengue grave;3;786;0,1445
+2014;Classificação final;Inconclusivo;4;87345;16,0585
+2014;Classificação final;Ignorado/Branco;5;861;0,1583
+2015;Classificação final;Dengue;1;1291376;79,5588
+2015;Classificação final;Dengue com sinais de alarme;2;21886;1,3483
+2015;Classificação final;Dengue grave;3;1804;0,1111
+2015;Classificação final;Inconclusivo;4;307901;18,9691
+2015;Classificação final;Ignorado/Branco;5;205;0,0126
+2016;Classificação final;Dengue;1;1034023;71,3078
+2016;Classificação final;Dengue com sinais de alarme;2;9397;0,648
+2016;Classificação final;Dengue grave;3;1002;0,0691
+2016;Classificação final;Inconclusivo;4;404339;27,8838
+2016;Classificação final;Ignorado/Branco;5;1323;0,0912
+2017;Classificação final;Dengue;1;161957;67,6526
+2017;Classificação final;Dengue com sinais de alarme;2;2803;1,1709
+2017;Classificação final;Dengue grave;3;325;0,1358
+2017;Classificação final;Inconclusivo;4;73852;30,8494
+2017;Classificação final;Ignorado/Branco;5;458;0,1913
+2018;Classificação final;Dengue;1;191568;72,9474
+2018;Classificação final;Dengue com sinais de alarme;2;4493;1,7109
+2018;Classificação final;Dengue grave;3;432;0,1645
+2018;Classificação final;Inconclusivo;4;65598;24,9792
+2018;Classificação final;Ignorado/Branco;5;520;0,198
+2019;Classificação final;Dengue;1;1283887;83,0322
+2019;Classificação final;Dengue com sinais de alarme;2;20270;1,3109
+2019;Classificação final;Dengue grave;3;1581;0,1022
+2019;Classificação final;Inconclusivo;4;237889;15,3849
+2019;Classificação final;Ignorado/Branco;5;2625;0,1698
+2020;Classificação final;Dengue;1;802804;82,2678
+2020;Classificação final;Dengue com sinais de alarme;2;9720;0,9961
+2020;Classificação final;Dengue grave;3;935;0,0958
+2020;Classificação final;Inconclusivo;4;160599;16,4575
+2020;Classificação final;Ignorado/Branco;5;1784;0,1828
+2021;Classificação final;Dengue;1;450359;83,3922
+2021;Classificação final;Dengue com sinais de alarme;2;4909;0,909
+2021;Classificação final;Dengue grave;3;450;0,0833
+2021;Classificação final;Inconclusivo;4;83197;15,4055
+2021;Classificação final;Ignorado/Branco;5;1134;0,21
+2022;Classificação final;Dengue;1;1233766;87,8066
+2022;Classificação final;Dengue com sinais de alarme;2;18924;1,3468
+2022;Classificação final;Dengue grave;3;1548;0,1102
+2022;Classificação final;Inconclusivo;4;149045;10,6075
+2022;Classificação final;Ignorado/Branco;5;1812;0,129
+2023;Classificação final;Dengue;1;1401568;85,1836
+2023;Classificação final;Dengue com sinais de alarme;2;23660;1,438
+2023;Classificação final;Dengue grave;3;1695;0,103
+2023;Classificação final;Inconclusivo;4;207687;12,6227
+2023;Classificação final;Ignorado/Branco;5;10740;0,6527
+2024;Classificação final;Dengue;1;5904136;89,9346
+2024;Classificação final;Dengue com sinais de alarme;2;101392;1,5445
+2024;Classificação final;Dengue grave;3;8831;0,1345
+2024;Classificação final;Inconclusivo;4;542641;8,2658
+2024;Classificação final;Ignorado/Branco;5;7924;0,1207
+2025;Classificação final;Dengue;1;1444481;87,9058
+2025;Classificação final;Dengue com sinais de alarme;2;35105;2,1364
+2025;Classificação final;Dengue grave;3;2687;0,1635
+2025;Classificação final;Inconclusivo;4;158115;9,6223
+2025;Classificação final;Ignorado/Branco;5;2827;0,172
+2026;Classificação final;Dengue;1;372970;75,3592
+2026;Classificação final;Dengue com sinais de alarme;2;12715;2,5691
+2026;Classificação final;Dengue grave;3;813;0,1643
+2026;Classificação final;Inconclusivo;4;73008;14,7514
+2026;Classificação final;Ignorado/Branco;5;35417;7,1561
+2014;Evolução;Cura;1;420628;77,333
+2014;Evolução;Óbito por dengue;2;461;0,0848
+2014;Evolução;Óbito por outra causa;3;122;0,0224
+2014;Evolução;Óbito em investigação;4;51;0,0094
+2014;Evolução;Ignorado/Branco;5;122656;22,5505
+2015;Evolução;Cura;1;1222436;75,3116
+2015;Evolução;Óbito por dengue;2;972;0,0599
+2015;Evolução;Óbito por outra causa;3;184;0,0113
+2015;Evolução;Óbito em investigação;4;99;0,0061
+2015;Evolução;Ignorado/Branco;5;399481;24,6111
+2016;Evolução;Cura;1;956235;65,9434
+2016;Evolução;Óbito por dengue;2;704;0,0485
+2016;Evolução;Óbito por outra causa;3;190;0,0131
+2016;Evolução;Óbito em investigação;4;366;0,0252
+2016;Evolução;Ignorado/Branco;5;492589;33,9697
+2017;Evolução;Cura;1;154644;64,5978
+2017;Evolução;Óbito por dengue;2;188;0,0785
+2017;Evolução;Óbito por outra causa;3;84;0,0351
+2017;Evolução;Óbito em investigação;4;71;0,0297
+2017;Evolução;Ignorado/Branco;5;84408;35,2589
+2018;Evolução;Cura;1;177993;67,7782
+2018;Evolução;Óbito por dengue;2;203;0,0773
+2018;Evolução;Óbito por outra causa;3;57;0,0217
+2018;Evolução;Óbito em investigação;4;54;0,0206
+2018;Evolução;Ignorado/Branco;5;84304;32,1022
+2019;Evolução;Cura;1;1223975;79,1575
+2019;Evolução;Óbito por dengue;2;843;0,0545
+2019;Evolução;Óbito por outra causa;3;145;0,0094
+2019;Evolução;Óbito em investigação;4;158;0,0102
+2019;Evolução;Ignorado/Branco;5;321131;20,7683
+2020;Evolução;Cura;1;751189;76,9785
+2020;Evolução;Óbito por dengue;2;587;0,0602
+2020;Evolução;Óbito por outra causa;3;228;0,0234
+2020;Evolução;Óbito em investigação;4;110;0,0113
+2020;Evolução;Ignorado/Branco;5;223728;22,9267
+2021;Evolução;Cura;1;416828;77,1834
+2021;Evolução;Óbito por dengue;2;279;0,0517
+2021;Evolução;Óbito por outra causa;3;159;0,0294
+2021;Evolução;Óbito em investigação;4;55;0,0102
+2021;Evolução;Ignorado/Branco;5;122728;22,7253
+2022;Evolução;Cura;1;1149973;81,8431
+2022;Evolução;Óbito por dengue;2;1056;0,0752
+2022;Evolução;Óbito por outra causa;3;393;0,028
+2022;Evolução;Óbito em investigação;4;65;0,0046
+2022;Evolução;Ignorado/Branco;5;253608;18,0492
+2023;Evolução;Cura;1;1308128;79,5045
+2023;Evolução;Óbito por dengue;2;1192;0,0724
+2023;Evolução;Óbito por outra causa;3;345;0,021
+2023;Evolução;Óbito em investigação;4;95;0,0058
+2023;Evolução;Ignorado/Branco;5;335590;20,3963
+2024;Evolução;Cura;1;5337488;81,3031
+2024;Evolução;Óbito por dengue;2;6337;0,0965
+2024;Evolução;Óbito por outra causa;3;1308;0,0199
+2024;Evolução;Óbito em investigação;4;341;0,0052
+2024;Evolução;Ignorado/Branco;5;1219450;18,5752
+2025;Evolução;Cura;1;1391658;84,6912
+2025;Evolução;Óbito por dengue;2;1856;0,1129
+2025;Evolução;Óbito por outra causa;3;495;0,0301
+2025;Evolução;Óbito em investigação;4;45;0,0027
+2025;Evolução;Ignorado/Branco;5;249161;15,163
+2026;Evolução;Cura;1;354692;71,6661
+2026;Evolução;Óbito por dengue;2;370;0,0748
+2026;Evolução;Óbito por outra causa;3;121;0,0244
+2026;Evolução;Óbito em investigação;4;112;0,0226
+2026;Evolução;Ignorado/Branco;5;139628;28,2121
+2014;Faixa etária;<1 Ano;1;7102;1,3058
+2014;Faixa etária;1-4;2;13177;2,4227
+2014;Faixa etária;5-9;3;22908;4,2118
+2014;Faixa etária;10-14;4;40229;7,3964
+2014;Faixa etária;15-19;5;57404;10,5542
+2014;Faixa etária;20-39;6;216617;39,8267
+2014;Faixa etária;40-59;7;135472;24,9076
+2014;Faixa etária;60-64;8;18939;3,4821
+2014;Faixa etária;65-69;9;13224;2,4313
+2014;Faixa etária;70-79;10;14222;2,6148
+2014;Faixa etária;80 e +;11;4547;0,836
+2014;Faixa etária;Ignorado/Branco;12;58;0,0107
+2015;Faixa etária;<1 Ano;1;19226;1,1845
+2015;Faixa etária;1-4;2;39244;2,4178
+2015;Faixa etária;5-9;3;69739;4,2966
+2015;Faixa etária;10-14;4;115580;7,1209
+2015;Faixa etária;15-19;5;159804;9,8456
+2015;Faixa etária;20-39;6;619505;38,1679
+2015;Faixa etária;40-59;7;424374;26,1458
+2015;Faixa etária;60-64;8;64185;3,9545
+2015;Faixa etária;65-69;9;44821;2,7614
+2015;Faixa etária;70-79;10;49614;3,0567
+2015;Faixa etária;80 e +;11;16787;1,0343
+2015;Faixa etária;Ignorado/Branco;12;226;0,0139
+2016;Faixa etária;<1 Ano;1;17445;1,2031
+2016;Faixa etária;1-4;2;36340;2,5061
+2016;Faixa etária;5-9;3;62925;4,3395
+2016;Faixa etária;10-14;4;98834;6,8159
+2016;Faixa etária;15-19;5;142833;9,8502
+2016;Faixa etária;20-39;6;552292;38,0877
+2016;Faixa etária;40-59;7;365532;25,2082
+2016;Faixa etária;60-64;8;54923;3,7877
+2016;Faixa etária;65-69;9;39673;2,736
+2016;Faixa etária;70-79;10;44761;3,0869
+2016;Faixa etária;80 e +;11;17942;1,2373
+2016;Faixa etária;Ignorado/Branco;12;16552;1,1415
+2017;Faixa etária;<1 Ano;1;3823;1,597
+2017;Faixa etária;1-4;2;7921;3,3089
+2017;Faixa etária;5-9;3;12438;5,1957
+2017;Faixa etária;10-14;4;17599;7,3517
+2017;Faixa etária;15-19;5;26592;11,1083
+2017;Faixa etária;20-39;6;95773;40,0074
+2017;Faixa etária;40-59;7;53696;22,4305
+2017;Faixa etária;60-64;8;7453;3,1134
+2017;Faixa etária;65-69;9;5504;2,2992
+2017;Faixa etária;70-79;10;6012;2,5114
+2017;Faixa etária;80 e +;11;2540;1,061
+2017;Faixa etária;Ignorado/Branco;12;37;0,0155
+2018;Faixa etária;<1 Ano;1;4293;1,6348
+2018;Faixa etária;1-4;2;9184;3,4972
+2018;Faixa etária;5-9;3;15064;5,7363
+2018;Faixa etária;10-14;4;19486;7,4202
+2018;Faixa etária;15-19;5;25936;9,8763
+2018;Faixa etária;20-39;6;101985;38,8355
+2018;Faixa etária;40-59;7;62618;23,8447
+2018;Faixa etária;60-64;8;8891;3,3857
+2018;Faixa etária;65-69;9;6200;2,3609
+2018;Faixa etária;70-79;10;6493;2,4725
+2018;Faixa etária;80 e +;11;2424;0,923
+2018;Faixa etária;Ignorado/Branco;12;34;0,0129
+2019;Faixa etária;<1 Ano;1;17883;1,1566
+2019;Faixa etária;1-4;2;41862;2,7074
+2019;Faixa etária;5-9;3;81562;5,2751
+2019;Faixa etária;10-14;4;116270;7,5198
+2019;Faixa etária;15-19;5;144364;9,3368
+2019;Faixa etária;20-39;6;580324;37,5327
+2019;Faixa etária;40-59;7;398436;25,769
+2019;Faixa etária;60-64;8;62005;4,0102
+2019;Faixa etária;65-69;9;43382;2,8057
+2019;Faixa etária;70-79;10;44029;2,8476
+2019;Faixa etária;80 e +;11;15642;1,0117
+2019;Faixa etária;Ignorado/Branco;12;425;0,0275
+2020;Faixa etária;<1 Ano;1;11294;1,1574
+2020;Faixa etária;1-4;2;25381;2,601
+2020;Faixa etária;5-9;3;46508;4,7661
+2020;Faixa etária;10-14;4;62997;6,4559
+2020;Faixa etária;15-19;5;78894;8,085
+2020;Faixa etária;20-39;6;370441;37,9625
+2020;Faixa etária;40-59;7;269459;27,6139
+2020;Faixa etária;60-64;8;39957;4,0948
+2020;Faixa etária;65-69;9;28910;2,9627
+2020;Faixa etária;70-79;10;30637;3,1397
+2020;Faixa etária;80 e +;11;11179;1,1456
+2020;Faixa etária;Ignorado/Branco;12;151;0,0155
+2021;Faixa etária;<1 Ano;1;7537;1,3957
+2021;Faixa etária;1-4;2;18195;3,3693
+2021;Faixa etária;5-9;3;32406;6,0009
+2021;Faixa etária;10-14;4;37759;6,9922
+2021;Faixa etária;15-19;5;42376;7,8472
+2021;Faixa etária;20-39;6;201688;37,3485
+2021;Faixa etária;40-59;7;143083;26,4961
+2021;Faixa etária;60-64;8;20704;3,834
+2021;Faixa etária;65-69;9;14844;2,7488
+2021;Faixa etária;70-79;10;15660;2,8999
+2021;Faixa etária;80 e +;11;5640;1,0444
+2021;Faixa etária;Ignorado/Branco;12;124;0,023
+2022;Faixa etária;<1 Ano;1;14590;1,0405
+2022;Faixa etária;1-4;2;40431;2,8832
+2022;Faixa etária;5-9;3;79507;5,6699
+2022;Faixa etária;10-14;4;99786;7,116
+2022;Faixa etária;15-19;5;114563;8,1698
+2022;Faixa etária;20-39;6;498773;35,5689
+2022;Faixa etária;40-59;7;368661;26,2902
+2022;Faixa etária;60-64;8;60049;4,2823
+2022;Faixa etária;65-69;9;45247;3,2267
+2022;Faixa etária;70-79;10;52650;3,7546
+2022;Faixa etária;80 e +;11;20986;1,4966
+2022;Faixa etária;Ignorado/Branco;12;7030;0,5013
+2023;Faixa etária;<1 Ano;1;14486;0,8804
+2023;Faixa etária;1-4;2;42041;2,5552
+2023;Faixa etária;5-9;3;94665;5,7537
+2023;Faixa etária;10-14;4;123316;7,4951
+2023;Faixa etária;15-19;5;142645;8,6699
+2023;Faixa etária;20-39;6;595962;36,2221
+2023;Faixa etária;40-59;7;425948;25,8888
+2023;Faixa etária;60-64;8;69569;4,2283
+2023;Faixa etária;65-69;9;52921;3,2165
+2023;Faixa etária;70-79;10;59984;3,6458
+2023;Faixa etária;80 e +;11;23642;1,4369
+2023;Faixa etária;Ignorado/Branco;12;120;0,0073
+2024;Faixa etária;<1 Ano;1;50915;0,7756
+2024;Faixa etária;1-4;2;158446;2,4135
+2024;Faixa etária;5-9;3;346851;5,2834
+2024;Faixa etária;10-14;4;447652;6,8189
+2024;Faixa etária;15-19;5;542643;8,2658
+2024;Faixa etária;20-39;6;2266673;34,5272
+2024;Faixa etária;40-59;7;1783483;27,167
+2024;Faixa etária;60-64;8;312687;4,763
+2024;Faixa etária;65-69;9;245157;3,7344
+2024;Faixa etária;70-79;10;292661;4,458
+2024;Faixa etária;80 e +;11;116973;1,7818
+2024;Faixa etária;Ignorado/Branco;12;748;0,0114
+2025;Faixa etária;<1 Ano;1;13834;0,8419
+2025;Faixa etária;1-4;2;43353;2,6383
+2025;Faixa etária;5-9;3;86538;5,2664
+2025;Faixa etária;10-14;4;100855;6,1377
+2025;Faixa etária;15-19;5;134790;8,2028
+2025;Faixa etária;20-39;6;581717;35,4012
+2025;Faixa etária;40-59;7;446491;27,1718
+2025;Faixa etária;60-64;8;76326;4,6449
+2025;Faixa etária;65-69;9;59855;3,6426
+2025;Faixa etária;70-79;10;70734;4,3046
+2025;Faixa etária;80 e +;11;28647;1,7434
+2025;Faixa etária;Ignorado/Branco;12;72;0,0044
+2026;Faixa etária;<1 Ano;1;7126;1,4398
+2026;Faixa etária;1-4;2;19273;3,8942
+2026;Faixa etária;5-9;3;33198;6,7077
+2026;Faixa etária;10-14;4;37400;7,5568
+2026;Faixa etária;15-19;5;50899;10,2843
+2026;Faixa etária;20-39;6;188786;38,1447
+2026;Faixa etária;40-59;7;110841;22,3957
+2026;Faixa etária;60-64;8;16222;3,2777
+2026;Faixa etária;65-69;9;11888;2,402
+2026;Faixa etária;70-79;10;13680;2,7641
+2026;Faixa etária;80 e +;11;5580;1,1275
+2026;Faixa etária;Ignorado/Branco;12;28;0,0057
+2014;Hospitalização;Sim;1;16677;3,0661
+2014;Hospitalização;Não;2;248052;45,6047
+2014;Hospitalização;Ignorado/Branco;3;279189;51,3292
+2015;Hospitalização;Sim;1;35806;2,2059
+2015;Hospitalização;Não;2;692732;42,6777
+2015;Hospitalização;Ignorado/Branco;3;894634;55,1164
+2016;Hospitalização;Sim;1;30520;2,1047
+2016;Hospitalização;Não;2;621279;42,8443
+2016;Hospitalização;Ignorado/Branco;3;798285;55,0509
+2017;Hospitalização;Sim;1;11335;4,7349
+2017;Hospitalização;Não;2;119537;49,933
+2017;Hospitalização;Ignorado/Branco;3;108523;45,3322
+2018;Hospitalização;Sim;1;14825;5,6452
+2018;Hospitalização;Não;2;148827;56,672
+2018;Hospitalização;Ignorado/Branco;3;98959;37,6827
+2019;Hospitalização;Sim;1;55620;3,5971
+2019;Hospitalização;Não;2;965684;62,4532
+2019;Hospitalização;Ignorado/Branco;3;524948;33,9497
+2020;Hospitalização;Sim;1;32237;3,3035
+2020;Hospitalização;Não;2;656967;67,3231
+2020;Hospitalização;Ignorado/Branco;3;286638;29,3734
+2021;Hospitalização;Sim;1;17079;3,1625
+2021;Hospitalização;Não;2;360487;66,7508
+2021;Hospitalização;Ignorado/Branco;3;162483;30,0867
+2022;Hospitalização;Sim;1;50111;3,5664
+2022;Hospitalização;Não;2;981218;69,8329
+2022;Hospitalização;Ignorado/Branco;3;373766;26,6008
+2023;Hospitalização;Sim;1;53150;3,2303
+2023;Hospitalização;Não;2;1166016;70,8674
+2023;Hospitalização;Ignorado/Branco;3;426184;25,9023
+2024;Hospitalização;Sim;1;190252;2,898
+2024;Hospitalização;Não;2;4447212;67,742
+2024;Hospitalização;Ignorado/Branco;3;1927460;29,36
+2025;Hospitalização;Sim;1;72313;4,4007
+2025;Hospitalização;Não;2;1179744;71,7949
+2025;Hospitalização;Ignorado/Branco;3;391158;23,8044
+2026;Hospitalização;Sim;1;31228;6,3097
+2026;Hospitalização;Não;2;334266;67,539
+2026;Hospitalização;Ignorado/Branco;3;129429;26,1513
+2014;Raça/cor;Branca;1;171168;31,4694
+2014;Raça/cor;Preta;2;18875;3,4702
+2014;Raça/cor;Parda;3;148634;27,3265
+2014;Raça/cor;Amarela;4;3635;0,6683
+2014;Raça/cor;Indígena;5;1279;0,2351
+2014;Raça/cor;Ignorado/Branco;6;200327;36,8304
+2015;Raça/cor;Branca;1;521804;32,1472
+2015;Raça/cor;Preta;2;49694;3,0615
+2015;Raça/cor;Parda;3;369522;22,7654
+2015;Raça/cor;Amarela;4;8677;0,5346
+2015;Raça/cor;Indígena;5;3093;0,1906
+2015;Raça/cor;Ignorado/Branco;6;670382;41,3007
+2016;Raça/cor;Branca;1;331336;22,8494
+2016;Raça/cor;Preta;2;45679;3,1501
+2016;Raça/cor;Parda;3;407330;28,0901
+2016;Raça/cor;Amarela;4;9037;0,6232
+2016;Raça/cor;Indígena;5;3495;0,241
+2016;Raça/cor;Ignorado/Branco;6;653207;45,0461
+2017;Raça/cor;Branca;1;37948;15,8516
+2017;Raça/cor;Preta;2;6782;2,833
+2017;Raça/cor;Parda;3;115030;48,0503
+2017;Raça/cor;Amarela;4;1787;0,7465
+2017;Raça/cor;Indígena;5;676;0,2824
+2017;Raça/cor;Ignorado/Branco;6;77172;32,2363
+2018;Raça/cor;Branca;1;58527;22,2866
+2018;Raça/cor;Preta;2;8461;3,2219
+2018;Raça/cor;Parda;3;113164;43,0919
+2018;Raça/cor;Amarela;4;2472;0,9413
+2018;Raça/cor;Indígena;5;821;0,3126
+2018;Raça/cor;Ignorado/Branco;6;79166;30,1457
+2019;Raça/cor;Branca;1;502458;32,4952
+2019;Raça/cor;Preta;2;64016;4,1401
+2019;Raça/cor;Parda;3;566304;36,6243
+2019;Raça/cor;Amarela;4;11357;0,7345
+2019;Raça/cor;Indígena;5;4559;0,2948
+2019;Raça/cor;Ignorado/Branco;6;397558;25,7111
+2020;Raça/cor;Branca;1;426949;43,7519
+2020;Raça/cor;Preta;2;41122;4,214
+2020;Raça/cor;Parda;3;337077;34,5422
+2020;Raça/cor;Amarela;4;11011;1,1284
+2020;Raça/cor;Indígena;5;2912;0,2984
+2020;Raça/cor;Ignorado/Branco;6;156771;16,0652
+2021;Raça/cor;Branca;1;192734;35,6882
+2021;Raça/cor;Preta;2;17853;3,3058
+2021;Raça/cor;Parda;3;216296;40,0512
+2021;Raça/cor;Amarela;4;5038;0,9329
+2021;Raça/cor;Indígena;5;1142;0,2115
+2021;Raça/cor;Ignorado/Branco;6;106986;19,8104
+2022;Raça/cor;Branca;1;568501;40,46
+2022;Raça/cor;Preta;2;39851;2,8362
+2022;Raça/cor;Parda;3;503083;35,8042
+2022;Raça/cor;Amarela;4;12326;0,8772
+2022;Raça/cor;Indígena;5;3457;0,246
+2022;Raça/cor;Ignorado/Branco;6;277877;19,7764
+2023;Raça/cor;Branca;1;693062;42,1225
+2023;Raça/cor;Preta;2;72513;4,4071
+2023;Raça/cor;Parda;3;579530;35,2223
+2023;Raça/cor;Amarela;4;25593;1,5555
+2023;Raça/cor;Indígena;5;3116;0,1894
+2023;Raça/cor;Ignorado/Branco;6;271536;16,5032
+2024;Raça/cor;Branca;1;2763406;42,0935
+2024;Raça/cor;Preta;2;335247;5,1066
+2024;Raça/cor;Parda;3;2316568;35,287
+2024;Raça/cor;Amarela;4;72387;1,1026
+2024;Raça/cor;Indígena;5;15427;0,235
+2024;Raça/cor;Ignorado/Branco;6;1061889;16,1752
+2025;Raça/cor;Branca;1;801477;48,7749
+2025;Raça/cor;Preta;2;79536;4,8403
+2025;Raça/cor;Parda;3;519219;31,5978
+2025;Raça/cor;Amarela;4;20339;1,2378
+2025;Raça/cor;Indígena;5;3309;0,2014
+2025;Raça/cor;Ignorado/Branco;6;219335;13,3479
+2026;Raça/cor;Branca;1;131553;26,5805
+2026;Raça/cor;Preta;2;22738;4,5943
+2026;Raça/cor;Parda;3;284634;57,5108
+2026;Raça/cor;Amarela;4;8087;1,634
+2026;Raça/cor;Indígena;5;1774;0,3584
+2026;Raça/cor;Ignorado/Branco;6;46137;9,3221
+2014;Sexo;Feminino;1;295605;54,3473
+2014;Sexo;Masculino;2;247416;45,4877
+2014;Sexo;Ignorado/Branco;3;897;0,1649
+2015;Sexo;Feminino;1;895195;55,151
+2015;Sexo;Masculino;2;724265;44,6203
+2015;Sexo;Ignorado/Branco;3;3712;0,2287
+2016;Sexo;Feminino;1;818540;56,4478
+2016;Sexo;Masculino;2;628802;43,3631
+2016;Sexo;Ignorado/Branco;3;2742;0,1891
+2017;Sexo;Feminino;1;130371;54,4585
+2017;Sexo;Masculino;2;108745;45,4249
+2017;Sexo;Ignorado/Branco;3;279;0,1165
+2018;Sexo;Feminino;1;144863;55,1626
+2018;Sexo;Masculino;2;117499;44,7426
+2018;Sexo;Ignorado/Branco;3;249;0,0948
+2019;Sexo;Feminino;1;859470;55,5841
+2019;Sexo;Masculino;2;684756;44,2849
+2019;Sexo;Ignorado/Branco;3;2026;0,131
+2020;Sexo;Feminino;1;538632;55,1966
+2020;Sexo;Masculino;2;436229;44,7028
+2020;Sexo;Ignorado/Branco;3;981;0,1005
+2021;Sexo;Feminino;1;291319;53,9431
+2021;Sexo;Masculino;2;248164;45,9521
+2021;Sexo;Ignorado/Branco;3;566;0,1048
+2022;Sexo;Feminino;1;761763;54,2143
+2022;Sexo;Masculino;2;641899;45,6837
+2022;Sexo;Ignorado/Branco;3;1433;0,102
+2023;Sexo;Feminino;1;885019;53,7891
+2023;Sexo;Masculino;2;757970;46,0674
+2023;Sexo;Ignorado/Branco;3;2361;0,1435
+2024;Sexo;Feminino;1;3580624;54,5417
+2024;Sexo;Masculino;2;2974448;45,3082
+2024;Sexo;Ignorado/Branco;3;9852;0,1501
+2025;Sexo;Feminino;1;892251;54,2991
+2025;Sexo;Masculino;2;749757;45,6274
+2025;Sexo;Ignorado/Branco;3;1207;0,0735
+2026;Sexo;Feminino;1;266992;53,9462
+2026;Sexo;Masculino;2;227639;45,9948
+2026;Sexo;Ignorado/Branco;3;292;0,059
+2014;Sorotipo;DEN 1;1;1958;0,36
+2014;Sorotipo;DEN 2;2;19;0,0035
+2014;Sorotipo;DEN 3;3;10;0,0018
+2014;Sorotipo;DEN 4;4;569;0,1046
+2014;Sorotipo;Ignorado/Branco;5;541362;99,5301
+2015;Sorotipo;DEN 1;1;4717;0,2906
+2015;Sorotipo;DEN 2;2;67;0,0041
+2015;Sorotipo;DEN 3;3;21;0,0013
+2015;Sorotipo;DEN 4;4;355;0,0219
+2015;Sorotipo;Ignorado/Branco;5;1618012;99,6821
+2016;Sorotipo;DEN 1;1;3557;0,2453
+2016;Sorotipo;DEN 2;2;126;0,0087
+2016;Sorotipo;DEN 3;3;41;0,0028
+2016;Sorotipo;DEN 4;4;98;0,0068
+2016;Sorotipo;Ignorado/Branco;5;1446262;99,7364
+2017;Sorotipo;DEN 1;1;276;0,1153
+2017;Sorotipo;DEN 2;2;204;0,0852
+2017;Sorotipo;DEN 3;3;9;0,0038
+2017;Sorotipo;DEN 4;4;45;0,0188
+2017;Sorotipo;Ignorado/Branco;5;238861;99,7769
+2018;Sorotipo;DEN 1;1;451;0,1717
+2018;Sorotipo;DEN 2;2;685;0,2608
+2018;Sorotipo;DEN 3;3;3;0,0011
+2018;Sorotipo;DEN 4;4;12;0,0046
+2018;Sorotipo;Ignorado/Branco;5;261460;99,5617
+2019;Sorotipo;DEN 1;1;4187;0,2708
+2019;Sorotipo;DEN 2;2;7943;0,5137
+2019;Sorotipo;DEN 3;3;8;0,0005
+2019;Sorotipo;DEN 4;4;397;0,0257
+2019;Sorotipo;Ignorado/Branco;5;1533717;99,1893
+2020;Sorotipo;DEN 1;1;2095;0,2147
+2020;Sorotipo;DEN 2;2;5093;0,5219
+2020;Sorotipo;DEN 3;3;3;0,0003
+2020;Sorotipo;DEN 4;4;38;0,0039
+2020;Sorotipo;Ignorado/Branco;5;968613;99,2592
+2021;Sorotipo;DEN 1;1;2755;0,5101
+2021;Sorotipo;DEN 2;2;1559;0,2887
+2021;Sorotipo;DEN 3;3;3;0,0006
+2021;Sorotipo;DEN 4;4;10;0,0019
+2021;Sorotipo;Ignorado/Branco;5;535722;99,1988
+2022;Sorotipo;DEN 1;1;18256;1,2993
+2022;Sorotipo;DEN 2;2;2474;0,1761
+2022;Sorotipo;DEN 3;3;6;0,0004
+2022;Sorotipo;DEN 4;4;20;0,0014
+2022;Sorotipo;Ignorado/Branco;5;1384339;98,5228
+2023;Sorotipo;DEN 1;1;40855;2,4831
+2023;Sorotipo;DEN 2;2;6021;0,3659
+2023;Sorotipo;DEN 3;3;106;0,0064
+2023;Sorotipo;DEN 4;4;17;0,001
+2023;Sorotipo;Ignorado/Branco;5;1598351;97,1435
+2024;Sorotipo;DEN 1;1;129949;1,9794
+2024;Sorotipo;DEN 2;2;57790;0,8803
+2024;Sorotipo;DEN 3;3;1789;0,0273
+2024;Sorotipo;DEN 4;4;55;0,0008
+2024;Sorotipo;Ignorado/Branco;5;6375341;97,1122
+2025;Sorotipo;DEN 1;1;5921;0,3603
+2025;Sorotipo;DEN 2;2;36162;2,2007
+2025;Sorotipo;DEN 3;3;6857;0,4173
+2025;Sorotipo;DEN 4;4;38;0,0023
+2025;Sorotipo;Ignorado/Branco;5;1594237;97,0194
+2026;Sorotipo;DEN 1;1;1977;0,3995
+2026;Sorotipo;DEN 2;2;22509;4,548
+2026;Sorotipo;DEN 3;3;10579;2,1375
+2026;Sorotipo;DEN 4;4;123;0,0249
+2026;Sorotipo;Ignorado/Branco;5;459735;92,8902

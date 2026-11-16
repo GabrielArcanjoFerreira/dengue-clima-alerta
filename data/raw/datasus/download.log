@@ -1,0 +1,26 @@
+Catálogo: 47 linhas, 34 colunas, 1 conteúdo(s), 13 períodos, 57 filtros -> data/raw/datasus/catalogo
+28 consultas nos conjuntos [1, 2, 3, 4]; 23 pendentes
+[1/23] ok    1.1s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2026.csv
+[2/23] ok    7.2s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2024.csv
+[3/23] ok   24.9s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2023.csv
+[4/23] ok   41.0s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2025.csv
+[5/23] ok   24.6s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2022.csv
+[6/23] ok    2.8s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2020.csv
+[7/23] ok    2.4s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2019.csv
+[8/23] ok    0.9s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2018.csv
+[9/23] ok    1.2s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2021.csv
+[10/23] ok    2.3s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2016.csv
+[11/23] ok    2.6s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2015.csv
+[12/23] ok    1.5s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2014.csv
+[13/23] ok   65.3s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_faixa_etaria.csv
+[14/23] ok   22.7s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_sexo.csv
+[15/23] ok   19.6s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_raca.csv
+[16/23] ok   66.4s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_class_final.csv
+[17/23] ok   39.4s   5599 linhas  data/raw/datasus/tabnet/01_municipio_semana/2017.csv
+[18/23] ok   25.5s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_ocorreu_hospitalizacao.csv
+[19/23] ok   18.3s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_sorotipo.csv
+[20/23] ok   23.3s     13 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/faixa_etaria_x_evolucao.csv
+[21/23] ok   23.0s     14 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/ano_x_evolucao.csv
+[22/23] ok   31.2s   1581 linhas  data/raw/datasus/tabnet/04_desigualdade/municipios_extrema_pobreza_x_ano.csv
+[23/23] ok   94.5s     13 linhas  data/raw/datasus/tabnet/03_perfil_gravidade/faixa_etaria_x_ocorreu_hospitalizacao.csv
+Concluído em 10.2 min. 28 ok, 0 com erro. Manifesto: data/raw/datasus/tabnet/manifesto.csv

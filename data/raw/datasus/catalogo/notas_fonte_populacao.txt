@@ -1,0 +1,1 @@
+Fonte: Trabalho coordenado pela RIPSA. Realização: CGI Demográfico/RIPSA e CGIAE/SVSA/Ministério da Saúde. Dados básicos: IBGE Baixe os arquivos com os dados de Estimativas Populacionais por Município, Idade e Sexo 2000-2025 a partir do endereço de FTP ftp://ftp.datasus.gov.br/dissemin/publicos/IBGE/POPSVS/ Veja a versão do Tab para Windows (TABWIN)

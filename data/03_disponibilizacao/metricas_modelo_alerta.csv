@@ -1,0 +1,25 @@
+﻿horizonte_semanas;subconjunto;modelo;n_semanas;prevalencia_pct;auc;ap;brier
+4;Todas as semanas;Sazonal;24271;20,337;0,7478;0,3777;0,1503
+4;Início de epidemia (<5/100 mil);Sazonal;15311;1,8614;0,6998;0,0335;0,031
+4;Todas as semanas;Sazonal + clima;24271;20,337;0,772;0,4203;0,1466
+4;Início de epidemia (<5/100 mil);Sazonal + clima;15311;1,8614;0,7325;0,0367;0,0315
+4;Todas as semanas;Sazonal + vigilância;24271;20,337;0,9666;0,9063;0,0533
+4;Início de epidemia (<5/100 mil);Sazonal + vigilância;15311;1,8614;0,8751;0,1426;0,0169
+4;Todas as semanas;Completo;24271;20,337;0,9673;0,9087;0,0525
+4;Início de epidemia (<5/100 mil);Completo;15311;1,8614;0,8787;0,1453;0,0169
+8;Todas as semanas;Sazonal;23792;20,3009;0,7484;0,3777;0,1498
+8;Início de epidemia (<5/100 mil);Sazonal;14915;5,4509;0,7578;0,1165;0,0545
+8;Todas as semanas;Sazonal + clima;23792;20,3009;0,7879;0,4441;0,1422
+8;Início de epidemia (<5/100 mil);Sazonal + clima;14915;5,4509;0,8007;0,1427;0,0534
+8;Todas as semanas;Sazonal + vigilância;23792;20,3009;0,9257;0,8003;0,081
+8;Início de epidemia (<5/100 mil);Sazonal + vigilância;14915;5,4509;0,87;0,2603;0,0448
+8;Todas as semanas;Completo;23792;20,3009;0,929;0,8084;0,0788
+8;Início de epidemia (<5/100 mil);Completo;14915;5,4509;0,8839;0,3039;0,0437
+12;Todas as semanas;Sazonal;23349;19,8809;0,749;0,375;0,1467
+12;Início de epidemia (<5/100 mil);Sazonal;14558;8,8474;0,7786;0,2018;0,0753
+12;Todas as semanas;Sazonal + clima;23349;19,8809;0,7895;0,4769;0,1379
+12;Início de epidemia (<5/100 mil);Sazonal + clima;14558;8,8474;0,8192;0,3007;0,0717
+12;Todas as semanas;Sazonal + vigilância;23349;19,8809;0,884;0,688;0,1008
+12;Início de epidemia (<5/100 mil);Sazonal + vigilância;14558;8,8474;0,8476;0,3022;0,0692
+12;Todas as semanas;Completo;23349;19,8809;0,8894;0,6994;0,0983
+12;Início de epidemia (<5/100 mil);Completo;14558;8,8474;0,8665;0,3718;0,0664

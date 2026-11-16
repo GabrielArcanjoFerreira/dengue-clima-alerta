@@ -1,0 +1,159 @@
+﻿tabela;coluna;descricao
+dim_tempo_semana;id_semana;Semana epidemiológica no formato AAAASS (chave da dim_tempo_semana)
+dim_tempo_semana;ano_epi;Ano epidemiológico
+dim_tempo_semana;semana_epi;Semana epidemiológica (1–53)
+dim_tempo_semana;data_inicio;Domingo que inicia a semana
+dim_tempo_semana;data_fim;Sábado que encerra a semana
+dim_tempo_semana;mes_referencia;Mês do meio da semana (1–12)
+dim_tempo_semana;nome_mes;Nome abreviado do mês
+dim_tempo_semana;trimestre;Trimestre (1–4)
+dim_tempo_semana;estacao_ano;Estação do ano (hemisfério sul)
+dim_tempo_semana;periodo_sazonal;Alta (SE 1–22) ou baixa temporada da dengue
+dim_tempo_semana;rotulo_semana;Rótulo AAAA/SEss
+dim_tempo_semana;dado_preliminar;Sim = ano corrente, sujeito a revisão pela fonte
+dim_tempo_semana;atraso_notificacao;Sim = uma das 4 últimas semanas publicadas (casos ainda sendo digitados)
+dim_ano;ano;Ano epidemiológico
+dim_ano;ano_parcial;Sim = ano ainda em curso
+dim_ano;rotulo_ano;Rótulo do ano para exibição
+dim_uf;cod_uf;Código IBGE da UF (2 dígitos)
+dim_uf;sigla_uf;Sigla da UF
+dim_uf;nome_uf;Nome da UF
+dim_uf;regiao;Grande região
+dim_municipio;cod_municipio;Código IBGE do município (6 dígitos, padrão DATASUS)
+dim_municipio;nome_municipio;Nome do município (SINAN)
+dim_municipio;municipio_uf;Município/UF (use como categoria 'Cidade' no mapa do Power BI)
+dim_municipio;cod_uf;Código IBGE da UF (2 dígitos)
+dim_municipio;sigla_uf;Sigla da UF
+dim_municipio;nome_uf;Nome da UF
+dim_municipio;regiao;Grande região
+dim_municipio;capital;Sim = capital estadual
+dim_municipio;extrema_pobreza;Sim = classificado como município em extrema pobreza (filtro do TabNet)
+dim_municipio;porte;Porte populacional (2025)
+dim_municipio;populacao_2025;População residente estimada em 2025
+dim_municipio;possui_estacao_inmet;Sim = há estação automática do INMET associada
+dim_municipio;qtd_estacoes;Nº de estações associadas
+dim_municipio;amostra_clima;Sim = estação com ≥ 70% das semanas com temperatura válida (usado nas análises clima × dengue)
+dim_municipio;latitude;"Latitude (graus decimais; nos municípios, média das estações)"
+dim_municipio;longitude;Longitude (graus decimais)
+dim_estacao;codigo_wmo;Código da estação INMET
+dim_estacao;nome_estacao;Nome da estação
+dim_estacao;sigla_uf;Sigla da UF
+dim_estacao;regiao;Grande região
+dim_estacao;cod_municipio;Código IBGE do município (6 dígitos, padrão DATASUS)
+dim_estacao;latitude;"Latitude (graus decimais; nos municípios, média das estações)"
+dim_estacao;longitude;Longitude (graus decimais)
+dim_estacao;altitude;Altitude da estação (m)
+dim_estacao;data_fundacao;Data de fundação da estação
+dim_estacao;primeiro_ano;Primeiro ano com dados
+dim_estacao;ultimo_ano;Último ano com dados
+dim_estacao;semanas_validas_temp;Semanas com temperatura válida
+dim_estacao;semanas_validas_precip;Semanas com chuva válida
+fato_dengue_semanal;id_semana;Semana epidemiológica no formato AAAASS (chave da dim_tempo_semana)
+fato_dengue_semanal;cod_municipio;Código IBGE do município (6 dígitos, padrão DATASUS)
+fato_dengue_semanal;casos;Casos prováveis de dengue (exclui descartados), por local de residência
+fato_dengue_semanal;incidencia_100k;Casos por 100 mil habitantes
+fato_dengue_semanal;alta_transmissao;Sim = incidência semanal ≥ 15 casos/100 mil hab.
+fato_dengue_anual_municipio;cod_municipio;Código IBGE do município (6 dígitos, padrão DATASUS)
+fato_dengue_anual_municipio;ano;Ano epidemiológico
+fato_dengue_anual_municipio;casos;Casos prováveis de dengue (exclui descartados), por local de residência
+fato_dengue_anual_municipio;populacao;População residente estimada no ano (2026 repete 2025)
+fato_dengue_anual_municipio;semanas_alta_transmissao;Nº de semanas do ano com incidência ≥ 15/100 mil
+fato_dengue_anual_municipio;semana_pico;Semana epidemiológica com mais casos no ano
+fato_dengue_anual_municipio;casos_semana_pico;Casos na semana de pico
+fato_dengue_anual_municipio;incidencia_100k;Casos por 100 mil habitantes
+fato_dengue_anual_municipio;nivel_incidencia;Classificação anual do Ministério da Saúde (baixa < 100, média 100–299, alta ≥ 300)
+fato_dengue_anual_municipio;rank_incidencia_uf;Posição do município na UF pela incidência do ano (1 = maior)
+fato_clima_semanal_estacao;id_semana;Semana epidemiológica no formato AAAASS (chave da dim_tempo_semana)
+fato_clima_semanal_estacao;codigo_wmo;Código da estação INMET
+fato_clima_semanal_estacao;precipitacao_mm;Chuva acumulada na semana (mm)
+fato_clima_semanal_estacao;precipitacao_max_diaria_mm;Maior chuva diária da semana (mm)
+fato_clima_semanal_estacao;dias_chuva;Dias com chuva ≥ 1 mm
+fato_clima_semanal_estacao;temp_media_c;Temperatura média da semana (°C)
+fato_clima_semanal_estacao;temp_max_media_c;Média das máximas diárias (°C)
+fato_clima_semanal_estacao;temp_min_media_c;Média das mínimas diárias (°C)
+fato_clima_semanal_estacao;umidade_media_pct;Umidade relativa média (%)
+fato_clima_semanal_estacao;n_dias_validos_temp;Dias com temperatura válida na semana
+fato_clima_semanal_estacao;n_dias_validos_precip;Dias com chuva válida na semana
+fato_perfil_anual;ano;Ano epidemiológico
+fato_perfil_anual;dimensao;Variável do perfil (faixa etária, sexo, raça/cor, classificação, evolução, hospitalização, sorotipo)
+fato_perfil_anual;categoria;Categoria da dimensão
+fato_perfil_anual;ordem;Ordem de exibição da categoria
+fato_perfil_anual;casos;Casos prováveis de dengue (exclui descartados), por local de residência
+fato_perfil_anual;pct_no_ano;% dos casos do ano na categoria
+fato_gravidade_faixa_etaria;faixa_etaria;Faixa etária
+fato_gravidade_faixa_etaria;ordem_faixa;Ordem da faixa etária
+fato_gravidade_faixa_etaria;casos;Casos prováveis de dengue (exclui descartados), por local de residência
+fato_gravidade_faixa_etaria;curas;Casos que evoluíram para cura
+fato_gravidade_faixa_etaria;obitos_dengue;Óbitos pelo agravo (dengue)
+fato_gravidade_faixa_etaria;obitos_em_investigacao;Óbitos ainda em investigação
+fato_gravidade_faixa_etaria;hospitalizados;Casos hospitalizados
+fato_gravidade_faixa_etaria;hospitalizacao_informada;Casos com o campo hospitalização preenchido
+fato_gravidade_faixa_etaria;letalidade_pct;Óbitos por dengue / casos × 100
+fato_gravidade_faixa_etaria;obitos_por_100mil_casos;Óbitos por dengue por 100 mil casos
+fato_gravidade_faixa_etaria;taxa_hospitalizacao_pct;Hospitalizados / casos com o campo preenchido × 100
+fato_gravidade_faixa_etaria;pct_casos;% do total de casos
+fato_dengue_clima_semanal;id_semana;Semana epidemiológica no formato AAAASS (chave da dim_tempo_semana)
+fato_dengue_clima_semanal;cod_municipio;Código IBGE do município (6 dígitos, padrão DATASUS)
+fato_dengue_clima_semanal;casos;Casos prováveis de dengue (exclui descartados), por local de residência
+fato_dengue_clima_semanal;incidencia_100k;Casos por 100 mil habitantes
+fato_dengue_clima_semanal;temp_media_c;Temperatura média da semana (°C)
+fato_dengue_clima_semanal;precipitacao_mm;Chuva acumulada na semana (mm)
+fato_dengue_clima_semanal;umidade_media_pct;Umidade relativa média (%)
+fato_dengue_clima_semanal;temp_media_4s_c;Temperatura média das últimas 4 semanas (°C)
+fato_dengue_clima_semanal;chuva_4s_mm;Chuva acumulada nas últimas 4 semanas (mm)
+fato_dengue_clima_semanal;prob_alta_transmissao_8s;Probabilidade (0–1) de alta transmissão daqui a 8 semanas — modelo de alerta
+fato_dengue_clima_semanal;id_semana_alvo;Semana a que a previsão se refere (id_semana + 8)
+fato_dengue_clima_semanal;periodo_modelo;treino (≤ 2022) ou teste (≥ 2023)
+fato_dengue_clima_semanal;alta_transmissao;Sim = incidência semanal ≥ 15 casos/100 mil hab.
+fato_dengue_clima_semanal;faixa_temperatura_4s;Faixa da temperatura média de 4 semanas
+fato_dengue_clima_semanal;faixa_chuva_4s;Faixa da chuva acumulada de 4 semanas
+fato_dengue_clima_semanal;temperatura_faixa_otima;Sim = temperatura de 4 semanas entre 22 e 28 °C (faixa de maior risco)
+fato_dengue_clima_semanal;nivel_alerta;Baixo (<10%), Moderado (10–30%), Alto (30–60%), Muito alto (≥60%)
+fato_dengue_clima_semanal;alta_transmissao_em_8s;O que de fato aconteceu 8 semanas depois (Sim/Não/Sem dado)
+fato_dengue_clima_semanal;municipio_amostra_modelo;Sim = município usado para treinar/avaliar o modelo (≥ 50 mil hab., cobertura ≥ 70%)
+metricas_kpis;indicador;Nome do indicador
+metricas_kpis;valor;Valor do indicador
+metricas_kpis;unidade;Unidade
+metricas_kpis;descricao;Recorte/observação
+resultados_hipoteses;id;Identificador da hipótese
+resultados_hipoteses;hipotese;Enunciado da hipótese
+resultados_hipoteses;metodo;Técnica estatística
+resultados_hipoteses;estatistica;Estatística do teste
+resultados_hipoteses;p_valor;p-valor
+resultados_hipoteses;tamanho_efeito;Magnitude do efeito
+resultados_hipoteses;resultado;Confirmada / Parcial / Não confirmada
+resultados_hipoteses;interpretacao;Leitura para o gestor/pitch
+metricas_defasagem_clima;variavel;Variável climática
+metricas_defasagem_clima;defasagem_semanas;Semanas entre o clima e os casos
+metricas_defasagem_clima;tipo;bruta (com sazonalidade) ou anomalia (sem sazonalidade)
+metricas_defasagem_clima;rho_mediana;Mediana do ρ de Spearman entre municípios
+metricas_defasagem_clima;rho_p25;1º quartil do ρ
+metricas_defasagem_clima;rho_p75;3º quartil do ρ
+metricas_defasagem_clima;pct_municipios_positivos_signif;% dos municípios com ρ > 0 e p < 0,05
+metricas_defasagem_clima;municipios;Nº de municípios
+metricas_risco_temperatura;faixa;Faixa da variável climática
+metricas_risco_temperatura;semanas;Nº de semanas
+metricas_risco_temperatura;pct_semanas_alta_transmissao;% das semanas com alta transmissão
+metricas_risco_temperatura;incidencia_media;Incidência semanal média
+metricas_risco_temperatura;incidencia_mediana;Incidência semanal mediana
+metricas_risco_temperatura;ordem;Ordem de exibição da categoria
+metricas_risco_chuva;faixa;Faixa da variável climática
+metricas_risco_chuva;semanas;Nº de semanas
+metricas_risco_chuva;pct_semanas_alta_transmissao;% das semanas com alta transmissão
+metricas_risco_chuva;incidencia_media;Incidência semanal média
+metricas_risco_chuva;incidencia_mediana;Incidência semanal mediana
+metricas_risco_chuva;ordem;Ordem de exibição da categoria
+metricas_modelo_alerta;horizonte_semanas;Antecedência da previsão (semanas)
+metricas_modelo_alerta;subconjunto;Recorte de avaliação
+metricas_modelo_alerta;modelo;Conjunto de variáveis
+metricas_modelo_alerta;n_semanas;Semanas avaliadas
+metricas_modelo_alerta;prevalencia_pct;% de semanas de alta transmissão no recorte
+metricas_modelo_alerta;auc;Área sob a curva ROC
+metricas_modelo_alerta;ap;Average precision
+metricas_modelo_alerta;brier;Brier score (erro quadrático da probabilidade)
+metricas_niveis_alerta;nivel_alerta;Baixo (<10%), Moderado (10–30%), Alto (30–60%), Muito alto (≥60%)
+metricas_niveis_alerta;semanas;Nº de semanas
+metricas_niveis_alerta;pct_alta_transmissao_observada;% seguidas de alta transmissão 8 semanas depois
+metricas_niveis_alerta;pct_semanas;% das semanas no nível
+metricas_niveis_alerta;ordem;Ordem de exibição da categoria
+metricas_niveis_alerta;faixa_probabilidade;Faixa de probabilidade do nível

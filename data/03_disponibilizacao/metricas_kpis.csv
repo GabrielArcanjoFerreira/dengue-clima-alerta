@@ -1,0 +1,18 @@
+﻿indicador;valor;unidade;descricao
+Casos prováveis 2014–2026;18933359,0;casos;Brasil, 2014 até a última semana publicada
+Casos prováveis 2024 (recorde);6564894,0;casos;Maior ano da série
+Incidência 2024;3088,145;casos/100 mil hab.;Brasil
+Incidência média anual 2014–2025;733,016;casos/100 mil hab.;Média dos anos completos
+Óbitos por dengue 2014–2026;15048,0;óbitos;Evolução = óbito pelo agravo
+Óbitos por dengue 2024;6337,0;óbitos;Evolução = óbito pelo agravo
+Letalidade geral;0,079;% dos casos prováveis;2014–2026
+Municípios com incidência alta (≥300) em 2024;3624,0;municípios;Classificação do MS
+% dos casos nas SE 1–22;84,69;%;Concentração sazonal (H1)
+Semanas entre o pico da chuva e o pico dos casos;14,0;semanas;Climatologia (H1)
+Risco de alta transmissão na faixa 22–28 °C;19,67;% das semanas;H3
+Risco de alta transmissão fora da faixa 22–28 °C;5,259;% das semanas;H3
+Letalidade 80+ vs 20–39 anos;44,764;vezes;H6
+AUC do alerta (8 semanas);0,929;0–1;Teste 2023–2026
+Ganho de AP com clima no início de epidemia (8 semanas);16,773;%;H9
+Municípios com estação do INMET;651,0;municípios;Integração
+População coberta por municípios com estação;43,005;%;2025

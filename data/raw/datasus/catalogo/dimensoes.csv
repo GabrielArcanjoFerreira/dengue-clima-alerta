@@ -1,0 +1,62 @@
+variavel;rotulo;como_linha;como_coluna;como_filtro;n_categorias_filtro
+Ano_1º_Sintoma(s);Ano 1º Sintoma(s);1;1;1;54
+Mês_1º_Sintoma(s);Mês 1º Sintoma(s);1;1;1;13
+Semana_epidem._1º_Sintomas(s);Semana epidem. 1º Sintomas(s);1;1;1;54
+Ano_notificação;Ano notificação;1;1;1;54
+Mês_notificação;Mês notificação;1;1;1;13
+Semana_epidem._notificação;Semana epidem. notificação;1;1;1;54
+Ano_epidem._notificação;Ano epidem. notificação;1;1;1;54
+Ano_epidem._1º_Sintomas(s);Ano epidem. 1º Sintomas(s);1;1;1;54
+Região_de_notificação;Região de notificação;1;1;1;6
+Região/UF_de_notificação;Região/UF de notificação;1;0;0;
+UF_de_notificação;UF de notificação;1;1;1;28
+Município_de_notificação;Município de notificação;1;0;1;5598
+Capital_de_notificação;Capital de notificação;1;1;1;27
+Região_de_Saúde_(CIR)_de_notif;Região de Saúde (CIR) de notif;1;0;1;474
+Macrorreg.de_Saúde_de_notific;Macrorreg.de Saúde de notific;1;0;1;152
+Microrregião_IBGE_de_notific;Microrregião IBGE de notific;1;0;1;586
+Reg.Metropolit/RIDE_de_notific;Reg.Metropolit/RIDE de notific;1;0;1;95
+Territ_da_Cidadania_de_notific;Territ da Cidadania de notific;1;0;1;120
+Mesorregião_PNDR_de_notific;Mesorregião PNDR de notific;1;0;1;14
+Região_de_residência;Região de residência;1;1;1;6
+Região/UF_de_residência;Região/UF de residência;1;0;0;
+UF_de_residência;UF de residência;1;1;1;28
+Município_de_residência;Município de residência;1;0;1;5598
+Capital_de_residência;Capital de residência;1;1;1;27
+Região_de_Saúde_(CIR)_de_resid;Região de Saúde (CIR) de resid;1;0;1;474
+Macrorreg.de_Saúde_de_residênc;Macrorreg.de Saúde de residênc;1;0;1;152
+Microrregião_IBGE_de_residênc;Microrregião IBGE de residênc;1;0;1;586
+Reg.Metropolit/RIDE_de_resid;Reg.Metropolit/RIDE de resid;1;0;1;95
+Territ_da_Cidadania_de_resid;Territ da Cidadania de resid;1;0;1;120
+Mesorregião_PNDR_de_residênc;Mesorregião PNDR de residênc;1;0;1;14
+Autoctone_Mun_Res;Autoctone Mun Res;1;1;1;4
+País_F._infecção;País F. infecção;1;0;1;238
+UF_F.infecção;UF F.infecção;1;1;1;28
+Município_infecção;Município infecção;1;0;1;5598
+Caso_autóctone_munic_resid;Caso autóctone munic resid;1;1;1;4
+Faixa_Etária;Faixa Etária;1;1;1;12
+Class._Final;Class. Final;1;1;1;10
+Criterio_conf.;Criterio conf.;1;1;1;4
+Evolução;Evolução;1;1;1;5
+Exame_sorológico_(IgM)_Dengue;Exame sorológico (IgM) Dengue;1;1;1;5
+Exame_sorologia_Elisa________;Exame sorologia Elisa;1;1;1;5
+Exame_isolamento_viral_______;Exame isolamento viral;1;1;1;5
+Exame_de_RT-PCR______________;Exame de RT-PCR;1;1;1;5
+Sorotipo_____________________;Sorotipo;1;1;1;5
+Exame_de_Histopatologia______;Exame de Histopatologia;1;1;1;5
+Exame_de_Imunohistoquímica___;Exame de Imunohistoquímica;1;1;1;5
+Ocorreu_hospitalização_______;Ocorreu hospitalização;1;1;1;3
+Escolaridade;Escolaridade;0;1;0;
+Raça;Raça;0;1;1;6
+Sexo;Sexo;0;1;1;4
+Gestante;Gestante;0;1;0;
+Amazônia_Legal_(notificação);Amazônia Legal (notificação);0;0;1;2
+Semiárido_(notificação);Semiárido (notificação);0;0;1;2
+Faixa_de_Fronteira_(notific);Faixa de Fronteira (notific);0;0;1;2
+Zona_de_Fronteira_(notific);Zona de Fronteira (notific);0;0;1;2
+Munic_extrem_pobreza_(notific);Munic extrem pobreza (notific);0;0;1;2
+Amazônia_Legal_(residência);Amazônia Legal (residência);0;0;1;2
+Semiárido_(residência);Semiárido (residência);0;0;1;2
+Faixa_de_Fronteira_(residênc);Faixa de Fronteira (residênc);0;0;1;2
+Zona_de_Fronteira_(residênc);Zona de Fronteira (residênc);0;0;1;2
+Munic_extrem_pobreza_(resid);Munic extrem pobreza (resid);0;0;1;2

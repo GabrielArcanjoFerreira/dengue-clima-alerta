@@ -1,0 +1,5 @@
+﻿nivel_alerta;semanas;pct_alta_transmissao_observada;pct_semanas;ordem;faixa_probabilidade
+Baixo;14855;3,09;62,437;1;< 10%
+Moderado;3439;19,511;14,454;2;10–30%
+Alto;2223;43,14;9,343;3;30–60%
+Muito alto;3275;83,695;13,765;4;≥ 60%
